@@ -1,19 +1,19 @@
-# SchoolERP
-:school:
+# School ERP
+:ERP-Management-System:
 
-SchoolERP provides a suite of software covering all parts of a schools' administration, managing registration and admissions, from behaviour and achievement [As part of CCE in Examination module], managing Library, Fee, Accounts, Front - Office, Inventory, Time Table, Infirmary, Hostel & Mess, HR & Payroll and Transport .
+School ERP Provides a Suite of Software Covering all Parts of a Schools' Administration, Managing Registration and Admissions, From Behaviour and Achievement [As part of in Examination module], Managing Library, Fee, Accounts, Front - Office, Inventory, Time Table, Infirmary, Hostel & Mess, HR & Payroll and Transport .
 
-Complete application is created in such a manner that at almost all possible places, you may play with records in your style, you may create master records as per your need.
+Complete Application is Created in such a Manner That at Almost All Possible Places, You May Play with Records in Your Style, You May Create Master Records as Per Your Need.
 
-Application is ready to be integrated with any third party device, viz. Biometric Attendance Machine, Barcode Scanner etc.
+Application is Ready to be Integrated with Any Third Party Device, viz. Biometric Attendance Machine, Barcode Scanner etc.
 
 
 ## Installation 
-* Installing SchoolERP is a very easy process.
-* Download the latest zip from above and extract to your web-root/ subfolder   
+* Installing School ERP is a Very Easy Process.
+* Download the Latest zip from above and extract to your web-root/ subfolder   
 or clone from https://github.com/akshat4112/SchoolERP 
-* Create a database for your SchoolERP with name school_erp.
-* Access your SchoolERP by accessing proper url like http://localhost/SchoolERP.
+* Create a database for your School ERP with name school_erp.
+* Access your School ERP by accessing proper url like http://localhost/SchoolERP.
 
 ## Requirements
 :point_right: PHP 5.3 +
